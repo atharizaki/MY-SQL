@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menyimpan dan Membaca Data</string>
+    <string name="tnama">Nama</string>
+    <string name="tnotlp">Telepon</string>
+    <string name="tcreatedata">Craete Data</string>
+    <string name="tsimpan">Simpan</string>
+</resources>
